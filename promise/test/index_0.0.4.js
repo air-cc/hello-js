@@ -1,4 +1,4 @@
-var Promise = require('../src/index_0.0.4')
+// var Promise = require('../src/index_0.0.4')
 // global.Promise = Promise
 
 // - Promise.all
